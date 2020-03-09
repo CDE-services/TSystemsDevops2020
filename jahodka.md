@@ -1,7 +1,9 @@
-# Caute
+# Toto je jahodka
 
 * jahodka je superrrrr
+* jahodeckaaaaaaaa nasaaaaa
 * jahodka je vyborna
-* a toto skolenie je mega
 
 # Teraz idem robit dalsi commit
+
+JAHODKA!!!!

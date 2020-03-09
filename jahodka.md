@@ -1,6 +1,6 @@
 # Caute
 
-* jahodka je super
+* jahodka je superrrrr
 * jahodka je vyborna
 * a toto skolenie je mega
 

@@ -1,6 +1,12 @@
 # MOJA MALA JAHODKA
 
+# Toto je jahodka
+
 * pridany riadocek prvy
 * jahodka je superrrrr
+* jahodeckaaaaaaaa nasaaaaa
 * jahodka je vyborna
-* a toto skolenie je edit
+
+# Teraz idem robit dalsi commit
+
+JAHODKA!!!!

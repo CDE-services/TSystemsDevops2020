@@ -1,7 +1,6 @@
-# Caute
+# MOJA MALA JAHODKA
 
+* pridany riadocek prvy
 * jahodka je superrrrr
 * jahodka je vyborna
-* a toto skolenie je mega
-
-# Teraz idem robit dalsi commit
+* a toto skolenie je edit

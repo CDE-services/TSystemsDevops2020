@@ -1,12 +1,13 @@
 # MOJA MALA JAHODKA
 
+Toto je nejaky uvod k jahodke
+
 # Toto je jahodka
 
 * pridany riadocek prvy
-* jahodka je superrrrr
 * jahodeckaaaaaaaa nasaaaaa
 * jahodka je vyborna
 
-# Teraz idem robit dalsi commit
+# Teraz idem dalsi commit
 
 JAHODKA!!!!

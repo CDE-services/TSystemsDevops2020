@@ -7,7 +7,6 @@ Testovací projekt pre akadémiu T-Systems Devops 2020
 * Najprv sme vytvorili konto na GitHub-e
 * Potom sme vytvorili novy projekt
 * Zaškrtli sme pri tom automatické vytvorenie README súboru, takže vďaka tomu máme tento pekný dokument.
-* Jahodka
 
 ## README slúži na opis projektu
 

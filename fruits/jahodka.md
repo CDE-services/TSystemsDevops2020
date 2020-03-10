@@ -1,5 +1,6 @@
 # MOJA MALA JAHODKAAAAaaaAAA
 
+JAHODECKA <3
 Toto je nejaky dalsi text pridany, uvod k jahodke
 Next next next
 Toto je nejaky dalsi text pridany

@@ -1,6 +1,9 @@
 # MOJA MALA JAHODKAAAAaaaAAA
 
-Toto je nejaky dalsi text Toto je nejaky dalsi text pridany
+JAHODECKA <3
+Toto je nejaky dalsi text pridany, uvod k jahodke
+Next next next
+Toto je nejaky dalsi text pridany
 Novy text pridany
 
 # Toto je jahodka jahodecka 
@@ -16,7 +19,4 @@ JAHODKA!!
 JAHODKA!!
 JAHODKA!!
 
-
-MNAm!!!
-
-fjskldjfklajfklasd
+mnam!

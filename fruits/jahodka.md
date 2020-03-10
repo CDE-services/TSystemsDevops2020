@@ -17,5 +17,3 @@ Novy text pridany
 JAHODKA!!
 JAHODKA!!
 JAHODKA!!
-
-MNAM!
